@@ -18,4 +18,4 @@
 ![5](https://user-images.githubusercontent.com/71052252/97821661-dc250900-1c78-11eb-9d9d-626769d3168d.png)
 
 #### Ejecutamos el programa. 
-![6](https://user-images.githubusercontent.com/71052252/97821663-dc250900-1c78-11eb-9d20-c6969a6b508d.png)
+![6](https://user-images.githubusercontent.com/71052252/97821899-a46a9100-1c79-11eb-8926-528c9d599498.png)
